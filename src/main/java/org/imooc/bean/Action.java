@@ -38,4 +38,5 @@ public class Action {
 	public void setMethod(String method) {
 		this.method = method;
 	}
+
 }
